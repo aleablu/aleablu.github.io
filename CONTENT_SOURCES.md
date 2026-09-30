@@ -4,6 +4,7 @@ Reviewed 30 September 2026. The user's updates take precedence over older CVs an
 
 ## User-confirmed updates
 
+- Technical skills emphasize developing training code with PyTorch and executing training workloads on HPC infrastructure, as confirmed by the user. Specific HPC systems are omitted at the user's request. Python is not listed as a standalone skill. Cloud applications and model serving: Kubernetes-based cloud applications, Triton Inference Server, and vLLM. Systems: AWS, Google Cloud (GCP), DigitalOcean, and Linux. Cloud-instance training is omitted from the displayed skills at the user’s request. Data engineering: Pandas, Apache Spark, DuckDB, and columnar formats including Parquet and ORC (ORC is also documented in the English CV). Skills use dot-separated terms. Prior technologies remain in the relevant historical roles.
 - Alessandro Abluton, GitHub username `aleablu`.
 - CTO at Inferendo from February 2026. The prior AI Engineer role is presented through January 2026.
 - PhD in Computer Science, University of Turin, completed December 2025.
@@ -34,3 +35,7 @@ Private street address, birth date, phone number, and the academic CV's unrelate
 Six distinct publication records are shown, plus doctoral thesis and workshop contributions in their own sections. The duplicate Cambridge chapter on Scholar is consolidated. Citation metrics are omitted to avoid stale numbers. No unsupported teaching roles, numerical business outcomes, or additional employment are inferred. English is used throughout. Work and research descriptions summarize the sources rather than reproducing abstracts.
 
 Publication is pending GitHub access and repository setup; no live deployment is claimed.
+
+## Profile photo and tone
+
+The author supplied `/home/ale/Pictures/abluton-linked.jpg`, copied unchanged to `assets/alessandro-abluton.jpg`. The homepage uses the author’s name, role, and portrait. Section titles are descriptive CV headings; promotional slogans and the `beyond_code` field have been removed.
